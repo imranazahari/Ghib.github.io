@@ -1,2 +1,2 @@
 # Ghib.github.io
- self Protofile Page
+ Self Protofile page
